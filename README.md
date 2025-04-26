@@ -1,11 +1,11 @@
 # Hr-Dashboard
-1. Employee Insights:
+1.Employee Insights:
 It displays key data like headcount, new hires, attrition rate, and employee demographics to give a clear view of the workforce.
 
-2. Performance and Engagement Tracking:
+2.Performance and Engagement Tracking:
 The dashboard tracks employee performance, satisfaction surveys, training completion, and engagement levels to improve HR strategies.
 
-3 .Data-Driven HR Decisions:
+3.Data-Driven HR Decisions:
 By analyzing trends in hiring, turnover, and employee development, it helps HR managers make informed decisions for better talent management and planning.
 
 # output
